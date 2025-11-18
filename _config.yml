@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Isabella Tong — Portfolio"   
 description: "Design • Game Development • Interactive Media — Portfolio of Isabella Tong"  # 替换为你想要的描述
+
+- title: "About"
+  url: "/about/"
